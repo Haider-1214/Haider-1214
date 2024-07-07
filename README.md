@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haider</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
-<img align="right" alt="data science" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fchools.in%2Fcrash-course-in-data-science%2F&psig=AOvVaw3gu09UldN5io68z3jSky3A&ust=1720421416585000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjou7CrlIcDFQAAAAAdAAAAABAR">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haider-1214&label=Profile%20views&color=0e75b6&style=flat" alt="haider-1214" /> </p>
 
